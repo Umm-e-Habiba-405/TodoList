@@ -1,0 +1,26 @@
+[
+    {
+        "task": "buy grocery for sehri and iftari",
+        "done": true
+    },
+    {
+        "task": "wakeup early eg:6:00 AM",
+        "done": false
+    },
+    {
+        "task": "Exercise/walk/yoga",
+        "done": false
+    },
+    {
+        "task": "Break fast and healty diet",
+        "done": false
+    },
+    {
+        "task": "family and social time",
+        "done": false
+    },
+    {
+        "task": "sleep early",
+        "done": false
+    }
+]
